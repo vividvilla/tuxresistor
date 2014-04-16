@@ -3,6 +3,14 @@ Tux Resistor
 
 Tux Resistor is an Interactive Electronics Tool which can be used to convert Resitor color bands to Resistor values and vice versa.
 
+![alt text](http://vivekr.net/wp-content/uploads/2013/10/1.png "Tux Resistor")
+
+![alt text](http://vivekr.net/wp-content/uploads/2013/10/21.png "Tux Resistor")
+
+![alt text](http://vivekr.net/wp-content/uploads/2013/10/31.png "Tux Resistor")
+
+![alt text](http://vivekr.net/wp-content/uploads/2013/10/4.png "Tux Resistor")
+
 
 Installation for Linux
 ======================
