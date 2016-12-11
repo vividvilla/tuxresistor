@@ -3,37 +3,31 @@ Tux Resistor
 
 Tux Resistor is an Interactive Electronics Tool which can be used to convert Resitor color bands to Resistor values and vice versa.
 
-![alt text](http://vivekr.net/wp-content/uploads/2013/10/1.png "Tux Resistor")
+![Start page](http://i.imgur.com/YWbzraX.png "Tux Resistor")
 
-![alt text](http://vivekr.net/wp-content/uploads/2013/10/21.png "Tux Resistor")
+![Colorband to values](http://imgur.com/iLqHcip.png "Tux Resistor")
 
-![alt text](http://vivekr.net/wp-content/uploads/2013/10/31.png "Tux Resistor")
+![Values to colorband](http://imgur.com/115rTMx.png "Tux Resistor")
 
-![alt text](http://vivekr.net/wp-content/uploads/2013/10/4.png "Tux Resistor")
+![Credits](http://imgur.com/YWbzraX.png "Tux Resistor")
 
 
-Installation for Linux
+Installation for Linux/OSx/macOS
 ======================
 
-Extract the Zip file(bin/tuxresistorLinux.zip) and run the <bold>tux.sh</bold> file.
-
-or
-
-Using Command line(Run CMD) navigate to the extracted folder(tuxresistorWindows) and run the following command
-
-<code>java -cp .;tuxresistor.jar tuxresistor.Main</code>
+Download and extract the [Zip file](https://github.com/vividvilla/tuxresistor/releases/download/1.0/Linux-osx-macos.zip) and run 
+`./tux.sh` or run from commandline
+```
+java -cp .:tuxresistor.jar tuxresistor.Main
+```
 
 Installation for Windows
 ========================
 
-Extract the Zip file(bin/tuxresistorWindows.zip) and run the .jar file using Java.
-
-or
-
-Using Terminal navigate to the extracted folder(tuxresistorLinux) and run the following command
-
-<code>java -cp .:tuxresistor.jar tuxresistor.Main</code>
-
+Download and extract the [Zip file](https://github.com/vividvilla/tuxresistor/releases/download/1.0/Windows.zip) and run the `.jar` file using Java or run from command line
+```
+java -cp .:tuxresistor.jar tuxresistor.Main
+```
 
 Dependencies
 ============
@@ -90,16 +84,10 @@ I have tested it in Mac OS X Lion 10.7.4,It works great.Just download the Unix v
 Do I need any Softwares to Run this ?
 ================================
 
-Yes,You need to install Java Runtime Environment(JRE) or Java Development Kit (JDK),
+Yes, You need to install Java Runtime Environment(JRE) or Java Development Kit (JDK),
 
 If you are using Windows Download JRE form here - http://javadl.sun.com/webapps/download/AutoDL?BundleId=64152
 
 For Linux Download JRE from here - http://javadl.sun.com/webapps/download/AutoDL?BundleId=64145
 
 Linux users have plenty of other options also like installing open JDK from repository.
-
-Whats next ?
-================================
-
-I will be working on Android version and Web version of this App.
-
